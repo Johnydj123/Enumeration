@@ -2,8 +2,7 @@
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
-
-
+# Name: DINAGARAN JOHNY.S
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
